@@ -1,5 +1,5 @@
 {
-  "name": "hex-colors-resolve",
+  "name": "hex-color-resolve",
   "version": "1.0.0",
   "description": "Resolve hex colors shorthand.",
   "license": "MIT",
