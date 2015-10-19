@@ -30,5 +30,11 @@ Returns a new color, shorted or long.
 
 Type: `string`
 
+## Test
+
+```sh
+npm test
+```
+
 ## License
 [MIT](LICENSE.md) © Filipe LInhares
