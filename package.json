@@ -1,0 +1,22 @@
+{
+  "name": "hex-colors-resolve",
+  "version": "1.0.0",
+  "description": "Resolve hex colors shorthand.",
+  "license": "MIT",
+  "repository": "username/repository",
+  "author": "Filipe <filipelinhares.com>",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": ["colors", "hexadecimal"],
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "devDependencies": {
+    "ava": "^0.2.0",
+    "xo": "^0.9.0"
+  },
+  "xo": {
+    "space": true
+  }
+}
