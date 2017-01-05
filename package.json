@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Resolve hex colors shorthand.",
   "license": "MIT",
-  "repository": "username/repository",
+  "repository": "filipelinhares/hex-color-resolve",
   "author": "Filipe <filipelinhares.com>",
   "engines": {
     "node": ">=0.10.0"
